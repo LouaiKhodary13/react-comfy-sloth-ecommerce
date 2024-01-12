@@ -8,6 +8,8 @@ This React-based e-commerce application is designed to provide users with a seam
 
 This project was created as part of a tutorial by [Coding Addict](https://www.youtube.com/codingaddict). The tutorial provides valuable insights and guidance for building React applications.
 
+## Live Demo :
+[live_demo](https://react-comfy-sloth-ecommerce-store.netlify.app/)
 ## Table of Contents
 
 - [Installation](#installation)
